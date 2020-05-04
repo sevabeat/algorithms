@@ -5,6 +5,14 @@
 #include <climits>
 
 
+/*
+
+😎
+SEVASTIAN TRUTNEV
+M3101
+
+*/
+
 typedef std::vector<char> VISITED;
 typedef std::queue<int> BFS_QUEUE;
 typedef std::vector<int> VERTEX_LIST;
